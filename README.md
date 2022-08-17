@@ -1,6 +1,5 @@
 ### Olá, Prazer!
 ## Sou o Lucas Marques e sou Programador Júnior!
-========== \/ ==========
 
 - 👨🏽‍💻 Atualmente estou cursando Banco de Dados em SQL
 - 📚 Sou fanático por livros
