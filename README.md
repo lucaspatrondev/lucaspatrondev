@@ -1,9 +1,10 @@
-### Olá, eu me chamo Lucas Marques e sou júnior em Programação!
+### Olá, eu sou o Lucas e sou Programador Júnior!
 ========== \/ ==========
 
 - 👨🏽‍💻 Atualmente estou cursando Banco de Dados em SQL
 - 📚 Sou fanático por livros
-- 👨🏽‍🎓 Estudante do Ensino Médio e do Pré-Vestibular Descomplica.
+- 👨🏽‍🎓 Estudante do Ensino Médio e do Pré-Vestibular Descomplica
+- 📊 Implantação e Análise de Dados em Núvem
 
 <div align="center">
   <a href="https://github.com/lucasmarquesdv">
