@@ -33,5 +33,5 @@
 ![tenor](https://user-images.githubusercontent.com/104745874/185241164-5b5796a3-6ad7-4200-bcf4-42f4ce01c965.gif)
   </div>
 
- ![Snake animation](https://github.com/lucasmarquesdv/lucasmarquesdv/blob/output/github-contribution-grid-snake.svg)
- 
+  ![Snake animation](https://github.com/lucasmarquesdv/lucasmarquesdv/blob/output/github-contribution-grid-snake.svg) 
+    </div>
