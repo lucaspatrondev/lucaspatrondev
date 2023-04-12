@@ -21,9 +21,7 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Lucas-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
     </div>
-      
-      https://learn.microsoft.com/en-us/training/achievements/python-create-jupyter-notebook.svg
-      
+       
 <div align="center"
 <div> 
   <a href="https://www.linkedin.com/in/lucas-m-nascimento-8202931b6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -31,6 +29,11 @@
  <a href="https://api.whatsapp.com/send?phone=5511986754001&text=Ol%C3%A1%20Lucas%2C" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href = "lucasmarquesskt2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
+ 
+<div class="selos">
+        <p>Selos:</p>
+        <img src="https://learn.microsoft.com/en-us/training/achievements/python-create-jupyter-notebook.svg" alt="Selo-Jupyter">
+    </div>
 
 ![tenor](https://user-images.githubusercontent.com/104745874/185241164-5b5796a3-6ad7-4200-bcf4-42f4ce01c965.gif)
   </div>
