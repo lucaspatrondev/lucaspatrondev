@@ -21,11 +21,8 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Lucas-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
     </div>
-    
-    <div align="center"
-      <img align="center" alt="Lucas-Jupyter" height="30" width="40" src"https://learn.microsoft.com/en-us/training/achievements/python-create-jupyter-notebook.svg"/>
-      </div>
       
+      https://learn.microsoft.com/en-us/training/achievements/python-create-jupyter-notebook.svg
       
 <div align="center"
 <div> 
