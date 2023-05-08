@@ -1,42 +1,33 @@
-### Olá, Prazer!
-## Sou o Lucas Marques e sou Dev Júnior!
+# 💫 About Me:
+🧑🏽‍💻 Apaixonado por programação.<br>📘 Futuro estudante de Ciências da Computação - USP.<br>⌨️ Python - JavaScript - CSS - HTML.<br>📖 Entusiasta de literaturas.<br><br>✊🏽 #BLACKLIVESMATTER.
 
-- 👨🏽‍💻 Atualmente estou cursando Banco de Dados em SQL
-- 📚 Fanático por livros
-- 👨🏽‍🎓 Estudante do Ensino Médio e do Pré-Vestibular Descomplica
-- 📊 Implantação e Análise de Dados em Núvem
-- 🧑🏽‍💻 Desenvolvimento de Sistemas
 
-<div align="center">
-  <a href="https://github.com/lucasmarquesdv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmarquesdv&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarquesdv&layout=compact&langs_count=7&theme=dark"/>
-    </div>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/<𝕖𝕝𝕡𝕒𝕥𝕣𝕠𝕟.𝕕𝕚𝕣ツ/>#2482) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@elpatron.dir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasmarquesdev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/wodahs_dir) 
 
-<div align="center"
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Lucas-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-    </div>
-       
-<div align="center"
-<div> 
-  <a href="https://www.linkedin.com/in/lucas-m-nascimento-8202931b6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/elpatron.dir" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://api.whatsapp.com/send?phone=5511986754001&text=Ol%C3%A1%20Lucas%2C" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href = "lucasmarquesskt2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
- 
-<div class="selos">
-        <p>Selos:</p>
-        <img src="https://learn.microsoft.com/en-us/training/achievements/python-create-jupyter-notebook.svg" alt="Selo-Jupyter">
-    </div>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lucasmarquesdv&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucasmarquesdv&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarquesdv&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![tenor](https://user-images.githubusercontent.com/104745874/185241164-5b5796a3-6ad7-4200-bcf4-42f4ce01c965.gif)
-  </div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lucasmarquesdv&theme=oldie&no-frame=true&no-bg=false&margin-w=4)
 
-  ![Snake animation](https://github.com/lucasmarquesdv/lucasmarquesdv/blob/output/github-contribution-grid-snake.svg) 
-    </div>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=wodahs_dir)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=lucasmarquesdv&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=lucasmarquesdv&icon=3&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
