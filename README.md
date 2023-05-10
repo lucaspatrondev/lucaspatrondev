@@ -2,7 +2,7 @@
 🧑🏽‍💻 Apaixonado por programação.<br>
 📘 Futuro estudante de Ciências da Computação - USP.<br>
 ⌨️ Python - JavaScript - CSS - HTML.<br>
-📖 Entusiasta de literaturas.<br>
+📖 Entusiasta de literatura.<br>
 ✊🏽#BLACKLIVESMATTER
 
 # 🌐 Socials:
