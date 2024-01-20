@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/elpatron_dir" target="blank"><img src="https://img.shields.io/twitter/follow/elpatron_dir?logo=twitter&style=for-the-badge" alt="elpatron_dir" /></a> </p>
 
-- 🔭 I’m currently working on **Nitronplast**
+- 🔭 I’m currently working on **Nitronplast.**
 
-- 🌱 I’m currently learning **JavaScript,Java, Python, Pentest, Computer Network, Kali Linux,**
+- 🌱 I’m currently learning **JavaScript,Java, Python, Pentest, Computer Network, Kali Linux.**
 
-- 🤝 I’m looking for help with **GNU communnity**
+- 🤝 I’m looking for help with **Reddit, Facebook Community, Linkedin.**
 
 - 👨‍💻 All of my projects are available at [linktr.ee/patrondev](linktr.ee/patrondev)
 
