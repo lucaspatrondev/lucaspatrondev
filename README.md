@@ -42,4 +42,4 @@
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/r2TVE1YWUZZy51A2tE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/gaming-gta-grand-theft-auto-gta6-r2TVE1YWUZZy51A2tE">via GIPHY</a></p>
 --->
 
-![wOOw](assets/giphy.gif)
+![wOOw](https://media.giphy.com/media/r2TVE1YWUZZy51A2tE/giphy.gif)
