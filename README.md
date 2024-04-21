@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Nitronplast.**
 
-- 🌱 I’m currently learning **JavaScript,Java, Python, Pentest, Computer Network, Kali Linux.**
+- 🌱 I’m currently learning **JavaScript, Java, Python, Pentest, Computer Network, Kali Linux.**
 
 - 🤝 I’m looking for help with **Reddit, Facebook Community, Linkedin.**
 
